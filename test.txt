@@ -1,4 +1,1 @@
-key
-key
-key
-key
+pwd = f('key')
